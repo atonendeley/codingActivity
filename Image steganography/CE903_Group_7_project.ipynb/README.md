@@ -17,22 +17,19 @@ Retrieve Data: Extracts hidden data from a steganographically modified image.
 Minimal Impact: Ensures that the hidden data does not visibly alter the original image.
 
 # Usage
-1. Installation:
+1.Installation:
 
 Ensure Python 3.x is installed.
 Install required libraries using pip
 pip install pillow
 
 2.Running the Script:
-
 Run the script with Python
-
 python steganography.py
 Follow the prompts to select an image file, choose to hide or retrieve data, and input necessary data or retrieve hidden data.
+
 3. Example:
-
 Select an image file (example.png).
-
 Hide a message within the image or retrieve previously hidden data.
 Save the modified image with hidden data or display the extracted hidden data.
 
