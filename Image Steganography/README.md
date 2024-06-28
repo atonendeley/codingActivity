@@ -36,7 +36,8 @@ Save the modified image with hidden data or display the extracted hidden data.
 # Requirements
 Python 3.x
 pillow library (Python Imaging Library, forked as Pillow)
+
 # Notes
-This script provides a basic implementation of image steganography 
-Ensure that the image file format supports lossless compression (e.g., PNG, BMP) for optimal results.
-Embedding larger amounts of data may affect the quality of the image or increase file size.
+# This script provides a basic implementation of image steganography 
+# Ensure that the image file format supports lossless compression (e.g., PNG, BMP) for optimal results.
+# Embedding larger amounts of data may affect the quality of the image or increase file size.
