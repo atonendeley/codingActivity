@@ -1,2 +1,2 @@
 # codingActivity
-This i contains of some of my coding projects
+This contains of some of my coding projects
