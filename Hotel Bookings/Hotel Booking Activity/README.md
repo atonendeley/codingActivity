@@ -1,13 +1,4 @@
-# Table Of Contents
 # Overview 
-
-## [Data Description](Data_Description/Data_Description.md)
-
-## [Exploratory Data Analysis](Exploratory_Data_Analysis/Exploratory_Data_Analysis.md)
-
-## [Summary Performance of the Model](Models/Models.md)
-
-## [Conclusion](Conclusion/Conclusion.md)
 
 ### HOTEL BOOKING CANCELLATION 
 
